@@ -90,6 +90,5 @@ let name2 = "Jhon";
 console.log(name1 === name2);
 
 console.log(name2.toLowerCase());
-console.log(name2);
 
 console.log(name1 === name2);
