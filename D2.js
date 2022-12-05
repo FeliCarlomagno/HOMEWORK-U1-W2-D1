@@ -13,15 +13,20 @@ REGOLE
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 let string = "1";
-console.log(string);
+console.log(string); /* descrive una testo generico che è possibile inserire all'interno */
 
 let numero = 2;
-console.log(numero);
+console.log(numero); /* descrive una variabile al cui interno è possibile scrivere un carattere numerico */
 
 let boolean = 2 > 6;
-console.log(boolean);
+console.log(boolean);/*descrive una variabile che può dare come valore "true"(vero) o "false" (falso) */
 
-/* In javascript abbiamo tre principali datatype che sono: string,number e boolean.
+let null= none; /* descrive una variabile che non ha nessun valore stabilito */
+
+let undefined=  /* descrive che una variabile  non ha ricevuto nessun valore e viene utilizzata quando c'è effettivamente assenza di valore  */
+
+
+/* In javascript abbiamo dei principali datatype che sono: string,number, boolean, none e 
 I datatype sono quei tipi di dato che una variabile (let) può assumere e contenere */
 
 /* ESERCIZIO 2
@@ -90,5 +95,4 @@ let name2 = "Jhon";
 console.log(name1 === name2);
 
 console.log(name2.toLowerCase());
-
 console.log(name1 === name2);
