@@ -12,6 +12,10 @@ REGOLE
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+/* In javascript abbiamo dei principali datatype che sono: string,number, boolean, none e 
+I datatype sono quei tipi di dato che una variabile (let) può assumere e contenere */
+
 let string = "1";
 console.log(string); /* descrive una testo generico che è possibile inserire all'interno */
 
@@ -26,8 +30,7 @@ let null= none; /* descrive una variabile che non ha nessun valore stabilito */
 let undefined=  /* descrive che una variabile  non ha ricevuto nessun valore e viene utilizzata quando c'è effettivamente assenza di valore  */
 
 
-/* In javascript abbiamo dei principali datatype che sono: string,number, boolean, none e 
-I datatype sono quei tipi di dato che una variabile (let) può assumere e contenere */
+
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
