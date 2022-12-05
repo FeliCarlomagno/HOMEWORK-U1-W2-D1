@@ -17,7 +17,7 @@ REGOLE
 I datatype sono quei tipi di dato che una variabile (let) può assumere e contenere */
 
 let string = "1";
-console.log(string); /* descrive una testo generico che è possibile inserire all'interno */
+console.log(string); /* descrive una variabile al cui interno è possibile inserire testo generico */
 
 let numero = 2;
 console.log(numero); /* descrive una variabile al cui interno è possibile scrivere un carattere numerico */
