@@ -25,7 +25,7 @@ console.log(numero); /* descrive una variabile al cui interno è possibile scriv
 let boolean = 2 > 6;
 console.log(boolean);/*descrive una variabile che può dare come valore "true"(vero) o "false" (falso) */
 
-let null= none; /* descrive una variabile che non ha nessun valore stabilito */
+let variabile= null; /* descrive una variabile che non ha nessun valore stabilito */
 
 let undefined=  /* descrive che una variabile  non ha ricevuto nessun valore e viene utilizzata quando c'è effettivamente assenza di valore  */
 
@@ -74,6 +74,7 @@ console.log(name);
 console.log(name);
 
 const string2 = "Ciao";
+string2= "Ciao2"
 /*string2 = "Ciao2";*/
 
 /* ESERCIZIO 6
@@ -97,5 +98,5 @@ let name2 = "Jhon";
 
 console.log(name1 === name2);
 
-console.log(name2.toLowerCase());
+console.log(name1. toLowerCase name2.toLowerCase());
 console.log(name1 === name2);
