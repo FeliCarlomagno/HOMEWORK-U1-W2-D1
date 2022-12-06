@@ -75,7 +75,7 @@ console.log(name);
 
 const string2 = "Ciao";
 string2= "Ciao2"
-/*string2 = "Ciao2";*/
+
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
@@ -98,5 +98,5 @@ let name2 = "Jhon";
 
 console.log(name1 === name2);
 
-console.log(name1. toLowerCase name2.toLowerCase());
+console.log(name1.toLowerCase() name2.toLowerCase());
 console.log(name1 === name2);
